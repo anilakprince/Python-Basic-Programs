@@ -2,7 +2,6 @@
 
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 newlist = []
-def copy():
  for x in fruits:
   if "e" in x:
     newlist.append(x)
